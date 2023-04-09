@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+- 🔭 I’m currently studying Computer Science in National University of Singapore
+
 <!--
 **iyioon/iyioon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
